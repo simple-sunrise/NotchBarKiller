@@ -6,5 +6,5 @@ Tested on Redmi Note 10 Pro, andriod 13.
 
 ### Usage
 
-`Settings - Developer Options - Cutout Emulation - Notch bar killer
+`Settings - Developer Options - Cutout Emulation - Notch bar killer'
 
